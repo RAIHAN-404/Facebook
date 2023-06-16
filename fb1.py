@@ -111,9 +111,9 @@ _MM_    \M\_dM_     _dMM_MM_MM_    _MM_dM_     _dMM_M_      \M
                                                                
 
 [1;97m->->->->->->->->->->->->->->->->->->->->->->->[1;92m
-[1;91m -->  [1;92mDEVOLPER   :          RAIHAN-143 
-[1;91m -->  [1;92mFACEBOOK   :          /its.RAIHAN.7
-[1;91m -->  [1;92mGITHUB     :          RAIHAN-143
+[1;91m -->  [1;92mDEVOLPER   :          RAIHAN-404
+[1;91m -->  [1;92mFACEBOOK   :          HRIDOY-CHOWDURY-RAIHAN
+[1;91m -->  [1;92mGITHUB     :          RAIHAN-404
 [1;91m -->  [1;92mTOOLS      :          FACEBOOK
 [1;97m->->->->->->->->->->->->->->->->->->->->->->->
     """) 
